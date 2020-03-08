@@ -1,0 +1,8 @@
+const INCREMENT = 'INCREMENT';
+const DECREMENT = 'DECREMENT';
+const SIGN_IN = 'SIGN_IN';
+
+export {INCREMENT, DECREMENT, SIGN_IN};
+
+
+
